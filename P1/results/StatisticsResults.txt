@@ -90,3 +90,15 @@ SD (population): 144605647009847203330.6029234944
 VARIANCE (sample): 20912431153806368213126810737543743235418.6464322448
 Elapsed time (s): 0.081225
 
+======================================================================
+Input file: P1\tests\TC1.txt
+COUNT (non-empty items): 400
+VALID numeric items: 400
+INVALID items: 0
+MEAN: 242.32
+MEDIAN: 239.5
+MODE: 393
+SD (population): 145.2581068306
+VARIANCE (sample): 21152.7995989975
+Elapsed time (s): 0.001526
+
